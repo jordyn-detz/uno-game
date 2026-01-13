@@ -4,7 +4,7 @@ import org.scalatest.funspec.AnyFunSpec
 import org.scalatest.matchers.should._
 
 class Menu_Test extends AnyFunSpec with Matchers {
-  describe("UNO Simulation") {
+  describe("The UNO Simulation") {
     describe("has a menu") {
 
       //******* SHOW PLAYER ORDER *******
